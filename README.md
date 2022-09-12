@@ -68,3 +68,8 @@ Tập lệnh gắn một cú nhấp chuột của trình docker phụ trợ Xray
 
 
 
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
